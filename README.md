@@ -93,10 +93,9 @@ arabic-blog-website/
 - أضف موقعك للمراجعة
 - بعد الموافقة، أضف كود AdSense في الأماكن المحددة:
   ```html
-  <!-- مكان الإعلان العلوي -->
-  <div class="ad-banner">
-    <!-- كود AdSense هنا -->
-  </div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3645504142703497"
+     crossorigin="anonymous"></script>
+
   ```
 
 ### 3. تخصيص المحتوى
